@@ -1,0 +1,11 @@
+YAAP-15
+Build Date: 07/18/2025
+- Initial release build
+- Update OSS kernel
+- Root on rom is already included
+- Use proper dalvik heap on 8GB devices
+- Rework DT2W (focaltech devices DT2W will not work)
+- Fix 4k on gcam
+- Add core control and turbo charging
+- Add Dolby Atmos
+- Fix fatal crashed on dolby and fix also high cpu usage on dolby while idle
