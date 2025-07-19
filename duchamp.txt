@@ -1,4 +1,15 @@
 YAAP-15
+Build Date: 07/20/2025
+- Add support for A/B perf mode faster OTA
+- Disable native stats
+- Fix vowifi on airplane mode
+- Add display burn in protection
+- Fix gcam on 4k video and blurry portrait mode
+- Remove disable VRR causing a UI problem
+- Address some selinux denials
+- Remove mtk engineering mode less bloat
+
+YAAP-15
 Build Date: 07/18/2025
 - Initial release build
 - Update OSS kernel
