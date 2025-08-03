@@ -1,4 +1,13 @@
 YAAP-15
+Build Date: 08/04/2025
+- Enable frame pacing for smoother visual performance
+- Enable high touch polling rate
+- Update to latest OS2.0.200.0.VNLMIXM
+- Switch to full EROFS
+- Optimize dalvik heap config
+- Drop redundant dex2oat64 prop
+
+YAAP-15
 Build Date: 07/20/2025
 - Add support for A/B perf mode faster OTA
 - Disable native stats
